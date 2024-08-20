@@ -24,3 +24,5 @@ Crear el Grafo:
 Usa networkx para construir un grafo a partir de las listas de nodos y aristas.
 Cada arista tiene un costo asociado, que se añade como atributo en el grafo.
 > 
+# Emulador :
+https://replit.com/@StrAva1/DIRECION?v=1
